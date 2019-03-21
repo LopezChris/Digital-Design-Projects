@@ -1,4 +1,4 @@
-# verilog-samples
+# Pipelinable Integer Divider
 
 The purpose of this lab was to design a 4-bit unsigned integer divider. 
 
